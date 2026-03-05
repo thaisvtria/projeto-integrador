@@ -5,7 +5,7 @@
   exigindo a união de saberes de diferentes disciplinas para criar uma solução concreta (produto, serviço ou relatório) ao final do curso.
 
   ## Membros do grupo
-  * Bryan
+  * Brayan Gabriel
   * Douglas Nascimento
   * Fernanda
   * Moacir Gonçaslves
