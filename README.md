@@ -7,8 +7,7 @@
   ## Membros do grupo
   * Brayan Gabriel
   * Douglas Nascimento
-  * Fernanda
+  * Fernanda Souza
   * Moacir Gonçaslves
   * Thaís Vitória
   * Vitória Martins
-  * Williane
